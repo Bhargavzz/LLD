@@ -1,3 +1,3 @@
 ﻿# LLD
 
-Low-level design notes and examples.
+Low-level design notes and examples
